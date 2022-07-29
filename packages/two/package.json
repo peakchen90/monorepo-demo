@@ -2,7 +2,9 @@
   "name": "@test/demo2",
   "version": "0.0.2",
   "description": "",
-  "scripts": {},
+  "scripts": {
+    "prepublishOnly": "exit 1"
+  },
   "dependencies": {
     "@test/demo1": "0.0.2"
   },
