@@ -1,12 +1,12 @@
 {
   "name": "@test/demo3",
-  "version": "0.0.3",
+  "version": "0.0.4-alpha.0",
   "description": "",
   "scripts": {
     "prepublishOnly": "exit 1"
   },
   "dependencies": {
-    "@test/demo2": "0.0.3"
+    "@test/demo2": "0.0.4-alpha.0"
   },
   "publishConfig": {
     "access": "restricted"
