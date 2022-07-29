@@ -1,11 +1,10 @@
 {
   "name": "@test/demo2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {
-    "@test/demo1": "0.0.1"
+    "@test/demo1": "0.0.2"
   },
   "publishConfig": {
     "access": "restricted"
