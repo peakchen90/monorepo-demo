@@ -1,0 +1,13 @@
+{
+  "name": "monorepo-demo",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "execa": "^5.1.1",
+    "fs-extra": "^10.1.0",
+    "glob": "^8.0.3",
+    "lerna": "5.3.0"
+  }
+}
